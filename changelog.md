@@ -9,6 +9,12 @@
 *Newest Addition First*
 
 ## Entry:
+**Date:** Jan. 26th, 2017
+**Author:** Eva Y.*[Captain]*
+**Entries:**
+- testing gpg
+
+## Entry:
 **Date:** Jan. 19th, 2017
 **Author:** Eva Y.*[Captain]*
 **Entries:**
