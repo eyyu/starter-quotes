@@ -13,7 +13,6 @@
 **Author:** Eva Y.*[Captain]*
 **Entries:**
 - testing gpg
-- testing gpg again
 
 ## Entry:
 **Date:** Jan. 19th, 2017
